@@ -1,6 +1,6 @@
-# AngularGraphqlPokemon
+# Pokemon Graph QL Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.5.
+This project uses Angular JS for the frontend and uses the public pokemon Graph QL Api, to display attributes of the pokemon character of your choice. 
 
 ## Development server
 
